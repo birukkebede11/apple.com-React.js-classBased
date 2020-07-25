@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/git@github.com:birukkebede11/apple.com-replica-React.js.git/static/css/main.e2bc6261.chunk.css",
-    "main.js": "/git@github.com:birukkebede11/apple.com-replica-React.js.git/static/js/main.cfcb6816.chunk.js",
-    "main.js.map": "/git@github.com:birukkebede11/apple.com-replica-React.js.git/static/js/main.cfcb6816.chunk.js.map",
-    "runtime-main.js": "/git@github.com:birukkebede11/apple.com-replica-React.js.git/static/js/runtime-main.b264808a.js",
-    "runtime-main.js.map": "/git@github.com:birukkebede11/apple.com-replica-React.js.git/static/js/runtime-main.b264808a.js.map",
-    "static/js/2.9d19915c.chunk.js": "/git@github.com:birukkebede11/apple.com-replica-React.js.git/static/js/2.9d19915c.chunk.js",
-    "static/js/2.9d19915c.chunk.js.map": "/git@github.com:birukkebede11/apple.com-replica-React.js.git/static/js/2.9d19915c.chunk.js.map",
-    "index.html": "/git@github.com:birukkebede11/apple.com-replica-React.js.git/index.html",
-    "precache-manifest.3731cab27030b2a3987a367dbfcc0f1d.js": "/git@github.com:birukkebede11/apple.com-replica-React.js.git/precache-manifest.3731cab27030b2a3987a367dbfcc0f1d.js",
-    "service-worker.js": "/git@github.com:birukkebede11/apple.com-replica-React.js.git/service-worker.js",
-    "static/css/main.e2bc6261.chunk.css.map": "/git@github.com:birukkebede11/apple.com-replica-React.js.git/static/css/main.e2bc6261.chunk.css.map",
-    "static/js/2.9d19915c.chunk.js.LICENSE.txt": "/git@github.com:birukkebede11/apple.com-replica-React.js.git/static/js/2.9d19915c.chunk.js.LICENSE.txt",
-    "static/media/Style.css": "/git@github.com:birukkebede11/apple.com-replica-React.js.git/static/media/watch.aa3dc733.jpg"
+    "main.css": "/apple.com-replica-React.js/static/css/main.b780f56e.chunk.css",
+    "main.js": "/apple.com-replica-React.js/static/js/main.c55a32d5.chunk.js",
+    "main.js.map": "/apple.com-replica-React.js/static/js/main.c55a32d5.chunk.js.map",
+    "runtime-main.js": "/apple.com-replica-React.js/static/js/runtime-main.c830b15f.js",
+    "runtime-main.js.map": "/apple.com-replica-React.js/static/js/runtime-main.c830b15f.js.map",
+    "static/js/2.9d19915c.chunk.js": "/apple.com-replica-React.js/static/js/2.9d19915c.chunk.js",
+    "static/js/2.9d19915c.chunk.js.map": "/apple.com-replica-React.js/static/js/2.9d19915c.chunk.js.map",
+    "index.html": "/apple.com-replica-React.js/index.html",
+    "precache-manifest.eb676d481fad60a37003070194302e74.js": "/apple.com-replica-React.js/precache-manifest.eb676d481fad60a37003070194302e74.js",
+    "service-worker.js": "/apple.com-replica-React.js/service-worker.js",
+    "static/css/main.b780f56e.chunk.css.map": "/apple.com-replica-React.js/static/css/main.b780f56e.chunk.css.map",
+    "static/js/2.9d19915c.chunk.js.LICENSE.txt": "/apple.com-replica-React.js/static/js/2.9d19915c.chunk.js.LICENSE.txt",
+    "static/media/Style.css": "/apple.com-replica-React.js/static/media/watch.aa3dc733.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b264808a.js",
+    "static/js/runtime-main.c830b15f.js",
     "static/js/2.9d19915c.chunk.js",
-    "static/css/main.e2bc6261.chunk.css",
-    "static/js/main.cfcb6816.chunk.js"
+    "static/css/main.b780f56e.chunk.css",
+    "static/js/main.c55a32d5.chunk.js"
   ]
 }
