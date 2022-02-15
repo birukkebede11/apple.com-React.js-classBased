@@ -99,6 +99,9 @@ img {
   color: #fff;
   margin-bottom: 10px;  
 }
+.new-alert {
+    color: #BF4801;
+  } 
 /*Rating wrapper*/
 .rating-result{
     background: #fafafa;
