@@ -9,8 +9,6 @@ class First extends React.Component {
 				new="New"
 				black="black"
 				title="iPad Pro"
-				description=""
-				price=""
 				orderOrBuy="Order"
 				ipodPrice="iPad Pro available starting 3.25"
 				magicKeyboard="Magic Keyboard coming in May"
